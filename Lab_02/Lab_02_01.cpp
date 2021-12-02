@@ -11,6 +11,6 @@ int main() {
     bool b = true;
     char c = 'c';
 
-    cout << a + b + c << endl;
+    cout << a - b - c << endl;
     return 0;
 }
