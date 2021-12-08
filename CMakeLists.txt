@@ -35,3 +35,6 @@ add_executable(Lab_04_04 Lab_04/Lab_04_04.cpp)
 add_executable(Lab_04_05 Lab_04/Lab_04_05.cpp)
 add_executable(Lab_04_06 Lab_04/Lab_04_06.cpp)
 add_executable(Lab_04_07 Lab_04/Lab_04_07.cpp)
+
+add_executable(Lab_05 Lab_05/Lab_05.cpp)
+add_executable(Lab_05_example Lab_05/Lab_05_example.cpp)
