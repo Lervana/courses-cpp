@@ -4,7 +4,7 @@
 using namespace std;
 
 // Lab_03_11
-//Napisz program, w którym użytkownik zgaduje liczbę losową z przedziału od 0 do 9 generowaną przez komputer.
+// Napisz program, w którym użytkownik zgaduje liczbę losową z przedziału od 0 do 9 generowaną przez komputer.
 // Dołącz plik nagłówkowy random.
 
 int main() {
